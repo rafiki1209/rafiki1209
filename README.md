@@ -14,7 +14,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA
 
 * :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Rafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrgcg/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Rafa-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/leopoldo-rafael-hernandez-gutierrez)
 
 * :e-mail: rafael.hernandez.ctc@gmail.com
 
